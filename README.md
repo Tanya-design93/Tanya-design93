@@ -4,7 +4,7 @@
 🤓 I have completed a few courses and projects involving Html, Css, Bootstrap, and JavaScript.
 <br>
 💡  Сurrently learning React. <br>
-📭 You can reach me by email: spivaktanya93@gmail.com <br>
+📭 You can reach me by email: tanya.codeadventure@.com <br>
 📌 Living in Canada. <br>
 
 <p>
