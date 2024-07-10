@@ -4,7 +4,7 @@
 🤓 I recently graduated from the NBCC QA program.
 <br>
 💡 I am currently working on a Selenium project. <br>
-📭 You can reach me by email: spivaktanya93@gmail.com
+📭 You can reach me by email: spivaktanya93@gmail.com <br>
 📌 Living in Canada. <br>
 
 
